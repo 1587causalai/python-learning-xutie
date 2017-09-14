@@ -4,4 +4,4 @@
 
 把这个当成一个项目上传到 github.
 
-1. 
+1. Python training with on Coursera courses.

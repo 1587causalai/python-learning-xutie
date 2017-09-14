@@ -12,3 +12,27 @@ Untracked files:
 
 nothing added to commit but untracked files present
 ]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git add .
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git add .commit -m "first ccommit"
+[master (root-commit) aa4ea1a] first commit
+ 10 files changed, 69 insertions(+)
+ create mode 100644 .Rproj.user/1506B92E/console06/513F26BD
+ create mode 100644 .Rproj.user/1506B92E/console06/INDEX001
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/93A1D9F0
+ create mode 100644 .Rproj.user/1506B92E/sources/prop/INDEX
+ create mode 100644 .Rproj.user/1506B92E/sources/s-B95315C/D57870FE
+ create mode 100644 .Rproj.user/1506B92E/sources/s-B95315C/D57870FE-contents
+ create mode 100644 .Rproj.user/1506B92E/sources/s-B95315C/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 README.md
+ create mode 100644 xutie-python.Rproj
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git remote add origin  git@githu[K[Khub.com:HeyangGong/python-learning-xutie.git
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git push -u origina[K ma ster
+Counting objects: 18, done.
+Delta compression using up to 4 threads.
+Compressing objects:   6% (1/15)   Compressing objects:  13% (2/15)   Compressing objects:  20% (3/15)   Compressing objects:  26% (4/15)   Compressing objects:  33% (5/15)   Compressing objects:  40% (6/15)   Compressing objects:  46% (7/15)   Compressing objects:  53% (8/15)   Compressing objects:  60% (9/15)   Compressing objects:  66% (10/15)   Compressing objects:  73% (11/15)   Compressing objects:  80% (12/15)   Compressing objects:  86% (13/15)   Compressing objects:  93% (14/15)   Compressing objects: 100% (15/15)   Compressing objects: 100% (15/15), done.
+Writing objects:   5% (1/18)   Writing objects:  11% (2/18)   Writing objects:  16% (3/18)   Writing objects:  22% (4/18)   Writing objects:  27% (5/18)   Writing objects:  33% (6/18)   Writing objects:  38% (7/18)   Writing objects:  44% (8/18)   Writing objects:  50% (9/18)   Writing objects:  55% (10/18)   Writing objects:  61% (11/18)   Writing objects:  66% (12/18)   Writing objects:  72% (13/18)   Writing objects:  77% (14/18)   Writing objects:  83% (15/18)   Writing objects:  88% (16/18)   Writing objects:  94% (17/18)   Writing objects: 100% (18/18)   Writing objects: 100% (18/18), 2.20 KiB | 0 bytes/s, done.
+Total 18 (delta 0), reused 0 (delta 0)
+To git@github.com:HeyangGong/python-learning-xutie.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git add .
