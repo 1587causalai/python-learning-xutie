@@ -1,0 +1,14 @@
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ [K]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git nini[K[K[K[Kinit
+Initialized empty Git repository in /home/ghy/test/coursera/Data_Science_with_python/xutie-python/.git/
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git commit -m "first  commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rproj.user/[m
+	[31mREADME.md[m
+	[31mxutie-python.Rproj[m
+
+nothing added to commit but untracked files present
+]0;/home/ghy/test/coursera/Data_Science_with_python/xutie-python]0;ghy@ghy-ThinkPad-T440: ~/test/coursera/Data_Science_with_python/xutie-pythonghy@ghy-ThinkPad-T440:~/test/coursera/Data_Science_with_python/xutie-python$ git add .
