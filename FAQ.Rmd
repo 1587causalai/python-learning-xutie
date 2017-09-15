@@ -1,0 +1,20 @@
+---
+title: "FAQ"
+author: "Heyang Gong"
+date: "September 15, 2017"
+output: html_document
+---
+
+
+1. 什么是激活函数，常见的激活函数有哪些？为什么它的名字叫做激活函数？
+
+Sigmoid, tanh, relu 是最常用的激活函数。一般应用于不同的层。sigmoid 用于决策层，比如logistic regression 的输出结果是 0，1的概率。
+
+
+2. 10分钟快猛糙的介绍随机梯度下降。
+
+3. 神经网络是最复杂的模型，那么
+    - 神经网路如何模拟逻辑运算？
+    - 线性模型是它的一个特例， how? what activate function + weights = linear model?
+    
+4. 西瓜书 P111 图 5.13 出发，如何理解神经网路中的基本概念，权重及其权重参数的个数。

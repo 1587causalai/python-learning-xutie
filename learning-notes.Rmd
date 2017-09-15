@@ -31,3 +31,10 @@ python 也很快，安装方式见 [tensorflow install](https://www.tensorflow.o
 
 A quick start on https://www.tensorflow.org/get_started/get_started
 
+
+
+
+
+### 图像处理 Kaggle 项目
+
+[循环神经网络(RNN, Recurrent Neural Networks)介绍](blog.csdn.net/heyongluoyao8/article/details/48636251),[CNN](blog.csdn.net/heyongluoyao8/article/details/48636251)
